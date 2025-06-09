@@ -21,7 +21,10 @@ Final Project: Personal Website
 
 ## 6+ Meaningful Commits
 
-1. [ ] Intitialize Repository and plan
+repository: https://github.com/arlysswest/Personal_Website
+
+1. [x] Intitialize Repository and plan
+       commit: https://github.com/arlysswest/Personal_Website/commit/ef561815959cb314d31b9cbc096a7ed7e4f0a3b9
 2. [ ] Navbar
 3. [ ] About
 4. [ ] Previous Work
