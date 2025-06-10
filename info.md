@@ -22,8 +22,8 @@ Final Project: Personal Website
 6. [x] CSS code
 7. [x] JavaScript code with interactivity
 8. [x] new tools (accordion & carosel)
-9. [ ] complete code checks wave
-10. [ ] w3 validator and prettier
+9. [x] complete code checks wave
+10. [x] w3 validator and prettier
 
 ## 6+ Meaningful Commits
 
