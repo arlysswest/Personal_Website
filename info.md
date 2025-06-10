@@ -13,6 +13,7 @@ Final Project: Personal Website
 6. "script.js" : JavaScript interactivity
 7. "info.md" : progress tracker
 8. "README.md" : project outline, issues, notes, and recourses used
+9. "journal.txt" : project outline, issues, notes, and recourses used
 
 # Requirement Checklist
 
@@ -46,3 +47,4 @@ repository: https://github.com/arlysswest/Personal_Website
 13. ran wave check, 'ERRORS' FIXED, THERE ARE STILL CONTRAST ERRORS AND ALERTS
 14. finished w3 and prettier check
 15. wave check completed no contrast errors or errors. there are a few alerts
+16. fixed and responsive footer

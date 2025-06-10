@@ -51,11 +51,11 @@ SOURCES & USE:
    I used this tool to complete accessibility checks on my code
 5. Prettier:
    I used this to format my code
-6. git Merge Issues - ChatGPT
+7. git Merge Issues - ChatGPT
    I was having merge issues with git so I used chatgpt to help me resolve those
-7. Missing Button & Contrast Errors (Wave) - ChatGPT
+8. Missing Button & Contrast Errors (Wave) - ChatGPT
    I was having a missing button and constrast errors that I could't resolve on my own, so I used chatgpt for assistance with resolving the issues
-8. DNS Configuraion error (deploying website)
+9. DNS Configuraion error (deploying website)
    im having dns configuration errors when i tried to use my own domain name. I attempted to use chatgpt to resolve that but I didn't figure it out
-9. Footer Gap - ChatGPT
+10.  Footer Gap - ChatGPT
    I was having a gap issue with the footer. I used chat gpt to help me fix it. It was a nesting issue and a missing main.
