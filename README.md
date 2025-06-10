@@ -1,61 +1,124 @@
-deployed website:
+# Personal Website — Arlyss West
+
+## Project Overview
+
+This is a personal professional website showcasing my background, work experience, projects, and contact information. The site is built with HTML, CSS, JavaScript, and Bootstrap components to provide a responsive and accessible user experience.
+
+The website is deployed on GitHub Pages and includes interactive features like image carousels, accordions, and a contact form with validation and feedback.
+
+**Deployed site:**  
 https://arlysswest.github.io/Personal_Website/
 
-github resository:
+**GitHub repository:**  
 https://github.com/arlysswest/Personal_Website
 
-HOW TO USE WEBISTE:
+---
 
-1. NAV BAR
-   1. The nav bar can be used to navigate between about, work, projects, and contact. This will navigate you to seperate pages.
-   2. the nav bar adjusts with window size. For smaller screens, there is a button with 3 lines that will expand the naviagation options. For larger screens each of the options are spread accross the top of the screen.
-2. ABOUT:
-   1. There are 2 carousels of images, one with work related images, and the other with personal images. There are arrow buttons for previous and next for each.
-   2. There is a short paragraph to describe me professionally
-   3. there is a "click for a fun fact" button that will give you a different fun fact about me up to 5 times for each time its clicked
-3. WORK:
-   1. There is a drop down bar in the nav bar that will take you to each section: work experience, volunteer experience, coursework, and languages
-   2. there is an accordion for each work experience. click on each work exerience for a description
-4. PROJECTS:
-   1. Each of the projects are listed with a shortdescription using cards.
-5. CONTACT:
-   1. there is a form with name, email, and a message. fill out these spaces and click "send" to send the form.
-   2. one the information is sent, you should recieve a message that says "Thank you! Message sent."
+## How to Use This Website
 
-ISSUES:
+1. **Navbar:**
 
-1. empty button errors
-2. merge conflicts when using git
-3. contrast errors
-4. dns configuration errors
-5. the photos are not showing up on the delpoyed website, but they are showing up when I use live server in visual studio code
-6. nav bar not working how i want it to
-7. wrong /missing header level
-8. redundant link
+   - Navigate between the About, Work, Projects, and Contact pages.
+   - Responsive design: On small screens, a hamburger menu expands navigation options.
 
-NEW RESEACH:
+2. **About Page:**
 
-1. accordion
-2. carousel
-3. how to deploy a website using github pages
+   - Two image carousels (work-related and personal photos) with arrow controls.
+   - A brief professional introduction.
+   - A "Click for a fun fact" button showing up to 5 different fun facts.
 
-SOURCES & USE:
+3. **Work Page:**
 
-1. ACCORDION - ChatGPT :
-   I used chat gpt for an example on how to use the accordion tool which I applied to my work experience section
-2. CAROUSEL - ChatGPT:
-   I used chat gpt for an example on how to use the carousel tool which I applied to my about me photos
-3. W3 Validator:
-   I used this validator to find errors in my code
-4. Wave browser extension:
-   I used this tool to complete accessibility checks on my code
-5. Prettier:
-   I used this to format my code
-6. git Merge Issues - ChatGPT
-   I was having merge issues with git so I used chatgpt to help me resolve those
-7. Missing Button & Contrast Errors (Wave) - ChatGPT
-   I was having a missing button and constrast errors that I could't resolve on my own, so I used chatgpt for assistance with resolving the issues
-8. DNS Configuraion error (deploying website)
-   im having dns configuration errors when i tried to use my own domain name. I attempted to use chatgpt to resolve that but I didn't figure it out
-9. Footer Gap - ChatGPT
-   I was having a gap issue with the footer. I used chat gpt to help me fix it. It was a nesting issue and a missing main.
+   - Dropdown navigation to work experience, volunteer experience, coursework, and languages.
+   - Accordion sections expand for detailed descriptions of each work experience.
+
+4. **Projects Page:**
+
+   - Project cards with project names, descriptions, and links to GitHub repositories or deployed sites.
+
+5. **Contact Page:**
+   - Contact form with name, email, and message fields.
+   - On submission, a thank-you confirmation message appears.
+
+---
+
+## Technologies Used
+
+- HTML5 & Semantic Markup
+- CSS3 with custom styles
+- JavaScript (ES6+) for interactivity
+- Bootstrap 5 components: Accordion and Carousel
+- Git & GitHub for version control and deployment
+- W3C Validator, Wave Accessibility Checker, Prettier for code quality
+
+---
+
+## Issues & Challenges
+
+- Fixing empty button accessibility errors
+- Handling Git merge conflicts
+- Resolving color contrast errors for accessibility
+- DNS configuration issues while trying to use a custom domain
+- Images not displaying on the deployed site (worked locally)
+- Navbar functionality quirks across pages
+- Fixing improper/missing header levels and redundant links
+- Footer spacing and responsive layout fixes
+
+---
+
+## Resources & References
+
+- ChatGPT — Helped with Accordion and Carousel implementation, Git merge conflict resolution, and accessibility fixes
+- W3 Validator — Code validation and error checking
+- Wave Browser Extension — Accessibility audit and fixes
+- Prettier — Code formatting
+- GitHub Pages Documentation — Deployment instructions
+
+---
+
+## Project Structure
+
+- `index.html` — About page
+- `work.html` — Work experience page
+- `projects.html` — Projects page
+- `contact.html` — Contact form page
+- `style.css` — Custom CSS styles
+- `script.js` — JavaScript interactivity
+- `info.md` — Project notes and progress tracker
+- `README.md` — Project overview and instructions
+- `journal.txt` — Development journal
+
+---
+
+## Commit History Highlights
+
+1. Initialized repository and project plan
+2. Completed Navbar
+3. Built About page
+4. Added Projects page (navbar issues resolved later)
+5. Added Work page
+6. Added Contact page
+7. Fixed footer and navbar
+8. Implemented image carousel
+9. Added accordion for work descriptions
+10. Added JavaScript interactivity and form validation
+11. Passed accessibility and formatting checks (Wave, W3 Validator, Prettier)
+12. Final responsive footer and layout fixes
+
+---
+
+## How to Run Locally
+
+1. Clone the repository:  
+   `git clone https://github.com/arlysswest/Personal_Website.git`
+2. Open the project folder in your code editor.
+3. Use Live Server (VS Code extension) or open the `.html` files directly in a browser to test locally.
+4. Navigate through pages using the navbar and interact with features.
+
+---
+
+Thank you for visiting my site!
+
+---
+
+_This project was completed as part of CS 463/563 Intro to Web Development at PSU._
