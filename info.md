@@ -19,10 +19,11 @@ Final Project: Personal Website
 3. [x] Previous Work
 4. [x] Projects
 5. [x] Contact
-6. [ ] CSS code
+6. [x] CSS code
 7. [x] JavaScript code with interactivity
 8. [x] new tools (accordion & carosel)
-9. [ ] complete code checks
+9. [ ] complete code checks wave
+10. [ ] w3 validator and prettier
 
 ## 6+ Meaningful Commits
 

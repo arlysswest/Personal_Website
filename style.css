@@ -93,7 +93,14 @@ footer {
   margin-top: 0; /* Removes bottom gap */
 /*}
 */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(100%); /* makes icons white on dark bg */
+}
 
+.visually-hidden {
+  color: #fff !important; /* White text just in case contrast checkers evaluate it */
+}
 footer {
   width: 100vw; /* Full viewport width */
   position: relative; /* Default positioning */
