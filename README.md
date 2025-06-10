@@ -48,5 +48,5 @@ SOURCES & USE:
 4. Wave browser extension:
    I used this tool to complete accessibility checks on my code
 5. I was having merge issues with git so I used chatgpt to help me resolve those
-6. I was having a missing button and constrast errors that I cound't resolve on my own, so I used chatgpt for assistance with resolving the issues
+6. I was having a missing button and constrast errors that I could't resolve on my own, so I used chatgpt for assistance with resolving the issues
 7. im having dns configuration errors when i tried to use my own domain name. I attempted to use chatgpt to resolve that but I didn't figure it out

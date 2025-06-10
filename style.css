@@ -4,6 +4,27 @@
 /* "styles.css" : Custom CSS file with WAVE-safe Retro Purple Pop theme */
 
 /* General Styling */
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+
+footer {
+  background-color: #6b5b95;
+  color: white;
+  padding: 1rem 0;
+  margin-top: 0;
+  box-sizing: border-box;
+  position: static; /* No fixed/relative positioning needed here */
+  width: 100%; /* Let it fill normally */
+  text-align: center;
+}
 html,
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -101,17 +122,18 @@ footer {
 .visually-hidden {
   color: #fff !important; /* White text just in case contrast checkers evaluate it */
 }
+/*
 footer {
   width: 100vw; /* Full viewport width */
-  position: relative; /* Default positioning */
-  left: 0; /* Align to the left edge */
-  background-color: #6b5b95; /* Your chosen footer color */
-  color: white;
+/* position: relative; /* Default positioning */
+/*left: 0; /* Align to the left edge */
+/*background-color: #6b5b95; /* Your chosen footer color */
+/*color: white;
   padding: 1rem 0;
   margin-top: 0;
   box-sizing: border-box; /* Include padding in width */
-}
-
+/*}
+*/
 /* Contact Form */
 form input,
 form textarea {

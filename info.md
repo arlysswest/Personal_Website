@@ -11,6 +11,8 @@ Final Project: Personal Website
 4. "contact.html" : contact page
 5. "style.css" : custom CSS file
 6. "script.js" : JavaScript interactivity
+7. "info.md" : progress tracker
+8. "README.md" : project outline, issues, notes, and recourses used
 
 # Requirement Checklist
 
@@ -41,7 +43,6 @@ repository: https://github.com/arlysswest/Personal_Website
 10. Create README.md
 11. java script interactivity added
 12. css added, problem with footer not behaving how i would like it too
-13. 
-ran wave check, 'ERRORS' FIXED, THERE ARE STILL CONTRAST ERRORS AND ALERTS
+13. ran wave check, 'ERRORS' FIXED, THERE ARE STILL CONTRAST ERRORS AND ALERTS
 14. finished w3 and prettier check
 15. wave check completed no contrast errors or errors. there are a few alerts
