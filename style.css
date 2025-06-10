@@ -1,4 +1,146 @@
 /* Arlyss West */
-/* CS-463 Into To Web Development */
-/* Final Project: Personal Website
-/* "sytles.css" :  custom css file */
+/* CS-463 Intro To Web Development */
+/* Final Project: Personal Website */
+/* "styles.css" : Custom CSS file with WAVE-safe Retro Purple Pop theme */
+
+/* General Styling */
+html,
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f0f0;
+  color: #333333;
+  line-height: 1.6;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+main {
+  flex: 1; /* Make main content take available space pushing footer down */
+}
+
+/* Navbar */
+.navbar {
+  background-color: #6b5b95;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #4b367c;
+}
+
+/* Sections */
+section {
+  padding: 2rem 0;
+}
+
+/* Lists */
+ul {
+  padding-left: 1.5rem;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* Buttons */
+button,
+.btn {
+  border-radius: 12px;
+  background-color: #6b5b95;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #4b367c;
+  opacity: 0.95;
+}
+
+/* Carousel */
+.carousel img {
+  border-radius: 16px;
+  margin: 0 auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Footer */
+/*
+footer {
+  background-color: #6b5b95;
+  color: white;
+  padding: 1rem 0;
+  margin-top: 0; /* Removes bottom gap */
+/*}
+*/
+
+footer {
+  width: 100vw; /* Full viewport width */
+  position: relative; /* Default positioning */
+  left: 0; /* Align to the left edge */
+  background-color: #6b5b95; /* Your chosen footer color */
+  color: white;
+  padding: 1rem 0;
+  margin-top: 0;
+  box-sizing: border-box; /* Include padding in width */
+}
+
+/* Contact Form */
+form input,
+form textarea {
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  background-color: white;
+  color: #333;
+}
+
+form input:focus,
+form textarea:focus {
+  outline: none;
+  box-shadow: 0 0 4px #6b5b95;
+  border-color: #6b5b95;
+}
+
+/* Accordion */
+.accordion-button {
+  font-weight: 500;
+  background-color: #e0e0e0;
+  border-radius: 8px;
+  color: #333;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #6b5b95;
+  color: white;
+}
+
+.accordion-body {
+  background-color: #ffffff;
+}
+
+/* Accordion Hover */
+.accordion-button:hover {
+  background-color: #d8d8d8;
+}

@@ -14,14 +14,15 @@ Final Project: Personal Website
 
 # Requirement Checklist
 
-1. [ ] Navbar
-2. [ ] About
-3. [ ] Previous Work
-4. [ ] Projects
-5. [ ] Contact
+1. [x] Navbar
+2. [x] About
+3. [x] Previous Work
+4. [x] Projects
+5. [x] Contact
 6. [ ] CSS code
-7. [ ] JavaScript code with interactivity
-8. [ ] new tools (accordion & carosel)
+7. [x] JavaScript code with interactivity
+8. [x] new tools (accordion & carosel)
+9. [ ] complete code checks
 
 ## 6+ Meaningful Commits
 
@@ -36,3 +37,5 @@ repository: https://github.com/arlysswest/Personal_Website
 7. footer added and navbar fixed for projects page
 8. carousel feature added
 9. accordion added
+10. Create README.md
+11. java script interactivity added

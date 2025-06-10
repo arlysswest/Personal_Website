@@ -3,6 +3,7 @@
 // Final Project: Personal Website
 // "script.js": shared java script
 
+/* thank u message */
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("contactForm");
   if (form) {
