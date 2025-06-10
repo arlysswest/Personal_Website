@@ -48,3 +48,5 @@ repository: https://github.com/arlysswest/Personal_Website
 14. finished w3 and prettier check
 15. wave check completed no contrast errors or errors. there are a few alerts
 16. fixed and responsive footer
+17. all wave alerts fixed
+18. final prettier formating
