@@ -40,3 +40,8 @@ repository: https://github.com/arlysswest/Personal_Website
 9. accordion added
 10. Create README.md
 11. java script interactivity added
+12. css added, problem with footer not behaving how i would like it too
+13. 
+ran wave check, 'ERRORS' FIXED, THERE ARE STILL CONTRAST ERRORS AND ALERTS
+14. finished w3 and prettier check
+15. wave check completed no contrast errors or errors. there are a few alerts
